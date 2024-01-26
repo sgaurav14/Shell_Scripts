@@ -40,7 +40,3 @@ then
 else
   echo "Ending the exploration session."
 fi
-  
-
-
-
