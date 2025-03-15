@@ -11,6 +11,7 @@ This repository contains scripts to automate the setup of a Kubernetes cluster o
 - At least one master node and one or more worker nodes
 
 ---
+```
 
 ## Step 1: Setup All Nodes (Master & Workers)
 
@@ -92,4 +93,3 @@ This project is open-source and available under the MIT License.
 ---
 
 🚀 **Happy Kubernetes Deployment!**
-```
